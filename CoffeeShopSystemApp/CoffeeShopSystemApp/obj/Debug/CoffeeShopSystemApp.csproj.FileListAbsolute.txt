@@ -1,0 +1,6 @@
+E:\projects\CoffeeShopSystemApp\CoffeeShopSystemApp\obj\Debug\CoffeeShopSystemApp.csprojAssemblyReference.cache
+E:\projects\CoffeeShopSystemApp\CoffeeShopSystemApp\obj\Debug\CoffeeShopSystemApp.Form_Dashboard.resources
+E:\projects\CoffeeShopSystemApp\CoffeeShopSystemApp\obj\Debug\CoffeeShopSystemApp.Login.resources
+E:\projects\CoffeeShopSystemApp\CoffeeShopSystemApp\obj\Debug\CoffeeShopSystemApp.Properties.Resources.resources
+E:\projects\CoffeeShopSystemApp\CoffeeShopSystemApp\obj\Debug\CoffeeShopSystemApp.csproj.GenerateResource.cache
+E:\projects\CoffeeShopSystemApp\CoffeeShopSystemApp\obj\Debug\CoffeeShopSystemApp.csproj.CoreCompileInputs.cache
